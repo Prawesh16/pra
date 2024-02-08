@@ -17,7 +17,8 @@ Nothing in life is promised except death
   As the sun slipped below the horizon, painting the sky with its final strokes of brilliance, the tree stood in quiet reverence, a timeless symbol of strength and resilience against the backdrop of the setting sun. And as darkness descended upon the land, the tree remained, a steadfast reminder of the beauty that exists in even the simplest moments of nature's grandeur.
 
 #### Sh*tpost 2:
-![Sh*tpost 2:](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
+
+<img src="https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif" alt="drawing" width="1500"/>
 *Source: Compote Slatte*
 
   "The Simpsons" is an iconic American animated television series created by Matt Groening. Premiering on December 17, 1989, the show has become one of the longest-running and most beloved sitcoms in television history, spanning over three decades.
