@@ -2,9 +2,10 @@
 Nothing in life is promised except death 
 
 #### Sh*tpost 1:
-![](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg)
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" alt="drawing" width="200"/>
-###
+
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" alt="drawing" width="1500"/>
+*Source: Pixabay*
+
   As the sun dipped toward the horizon, casting its golden glow across the sky, the silhouette of a solitary tree stood tall against the fiery backdrop. Its branches reached out like intricate veins against the canvas of the evening, each leaf painted with the hues of twilight.
 
   As the daylight waned, the tree seemed to come alive, its silhouette transforming into a dark, mysterious figure against the vibrant colors of the sunset. Shadows danced among its branches, swaying gently in the evening breeze, as if whispering secrets of the day's end.
